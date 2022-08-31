@@ -57,6 +57,10 @@
   text-decoration: none;
 }
 
+.text-black {
+  color: #000;
+}
+
 .card .links i:hover {
   color: #00ff00;
 }
